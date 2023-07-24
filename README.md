@@ -3,7 +3,7 @@
   <img src="img/hertaa1.gif" />
 </p>
 
-<h1>Herta Kuru-Kuru</h1>
+<h1>waduh</h1>
 
     
 
